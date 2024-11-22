@@ -1,0 +1,22 @@
+
+{
+    "harcos": {
+        "nev": "laci",
+        "hp": 100,
+        "inventory": []
+    },
+    "ellenseg":
+        {
+            "nev": "Goblin",
+            "hp": 50,
+            "loot": {
+                "nev": "Gyógyital",
+                "tipus": "gyógyító",
+                "hatas": 20,
+                "ritkasag": "közönséges"
+            }
+        }
+
+}
+
+
